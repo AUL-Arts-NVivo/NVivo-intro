@@ -1,5 +1,6 @@
 # NVivo-intro
-Tekst og filer til intro-kurser
+Velkommen til vores NVivo kursus.
+
 
 # Hvad du kommer til at lære på introkurset
 
