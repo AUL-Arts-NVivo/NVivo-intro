@@ -12,7 +12,7 @@ Som forberedelse til dette kursus skal du downloade den af de to øvelsesfiler, 
 3. Klik derefter Download, og hent filen ned på din computer.
 
 Filen er en NVivo projektfil og kan kun åbnes med NVivo 14, så du skal allerede have NVivo 14 installeret, hvis du skal bruge den.
-PLacer eventuelt NVivo projektfilen i en mappe og åbn den herefter.
+Placer eventuelt NVivo projektfilen i en mappe på skrivebordet, og åbn den herefter.
 
 Når projektfilen er åben, kan du under "Files" se en mappe med interviews, som du skal kode i løbet af kurset. I "Files" er det også en dansk stopordsliste, som du også kommer til at bruge.
 
