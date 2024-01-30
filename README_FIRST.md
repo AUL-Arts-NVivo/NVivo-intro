@@ -1,5 +1,5 @@
-# Om kurset
-Velkommen til vores NVivo kursus.
+# Velkommen til vores NVivo kursus
+## Om NVivo
 
 NVivo er en softwareapplikation udviklet til kvalitativ datamanagement og analyse. Den bruges primært til at organisere, analysere og finde mønstre i ikke-numeriske data, såsom tekst, lyd, video og billeder. NVivo giver dig værktøjer til at kode og kategorisere data, udføre tekst- og indholdsanalyse, samt visualisere og præsentere resultaterne af din analyse.
 
