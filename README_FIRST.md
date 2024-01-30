@@ -25,6 +25,6 @@ Derudover arbejder vi med en stop-ordsliste. Stop-ord, også kendt som "stop-wor
 ## Forberedelse
 Inden du deltager i kurset, skal du hente programmet og downloade nogle filer fra denne side. Du finder vejledning til hvordan i filen "Kom godt igang".
 
-Vi håber du får glæde af programmet!
+**Vi håber du får glæde af programmet!**
 
 
