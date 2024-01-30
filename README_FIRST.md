@@ -1,7 +1,7 @@
 # NVivo-intro
 Velkommen til vores NVivo kursus.
 
-NVivo er et digitalt analyseværktøj, der er god til at strukturere dine data, kode for mening og til at give indsigter på tværs af materialet. Det bliver brugt indenfor mange forsjellige forskermiljøer, især indenfor humaniora og socialvidenskaberne, hvor man arbejder med kvalitative data. Aarhus Universitet giver mulighed for at købe en billig licens til programmet, og Aarhus universitetbibliotek underviser i, og supporterer programmet.
+NVivo er et digitalt analyseværktøj, der er god til at strukturere dine data, kode for mening og  at give indsigter på tværs af materialet. Det bliver brugt indenfor mange forsjellige forskermiljøer, især indenfor humaniora og socialvidenskaberne, hvor man arbejder med kvalitative data. Aarhus Universitet giver mulighed for at købe en billig licens til programmet, og Aarhus universitetbibliotek underviser i, og supporterer programmet.
 
 
 # Hvad du kommer til at lære på introkurset
@@ -17,7 +17,13 @@ På vores 2-timers introkursus vil du lære de basale færdigheder, det kræver,
 
 
 ## Vores materiale
-Vores kursusmateriale består af seks interview
+Vores øvelsesmateriale består primært af seks korte interview som studerende på AU har lavet. De har interviewet om emnet "Madkultur". Vi har fået lov at bruge materialet i anonymiseret form, og vi har valgt disse interviews, fordi emnet er nemt at forholde sig til og fordi mange af vores studerende arbejder med interviews, og derfor hurtigt kan overføre deres læring til eget materiale.
+
+Derudover arbejder vi med en stop-ordsliste. Stop-ord, også kendt som "stop-words" på engelsk, refererer til almindelige ord i et sprog, der ofte forekommer i tekster, men som normalt ikke har meget betydning i forhold til at identificere nøglebegreber eller temaer i teksten. Disse ord inkluderer typisk forholdsord (som "på", "i", "til"), konjunktioner (som "og", "men", "eller"), samt andre ord, der forekommer hyppigt i sprogbrug, men ikke bærer meget semantisk vægt i en tekst. Når man arbejder med tekstanalyse eller informationshåndtering, fjernes ofte stop-ord fra tekster for at reducere støjniveauet og fokusere på de vigtigste ord og begreber. 
 
 
 ## Forberedelse
+Inden du deltager i kurset, skal du hente programmet og downloade nogle filer fra denne side. Du finder vejledning til hvordan i filen "Kom godt igang".
+Vi håber du får 
+
+
