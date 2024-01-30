@@ -11,7 +11,9 @@ På vores 2-timers introkursus vil du lære de basale færdigheder, det kræver,
 - Oprette, slette, fusionere koder
 - Kode i tekster med forskellige teknikker
 - Kunne få et overblik over dit kodearbejde
-- K
+- Oprette og autokode cases
+- Lave simple analyser på baggrund af kodningen
+- Oprette og redigere memos
 
 
 ## Vores materiale
