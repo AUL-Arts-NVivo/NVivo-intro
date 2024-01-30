@@ -1,5 +1,7 @@
 # Sådan kommer du i gang
-Det første du skal er at downloade og installere NVivo 14. 
+
+## Hent NVivo 14 
+Det første du skal er at downloade og installere NVivo 14. Det er den nyeste udgave af programmet
 Du kan prøve NVivo i 14 dages gratis, som trial, eller købe en studenterlicens gennem AU-IT. 
 Hvis du bare vil prøve NVivo, så brug de 14 dage først, og købe en licens senere, hvis NVivo er noget for dig.
 Se denne video på YouTube om hvordan du får fat i [NVivo 14](https://youtu.be/Uwq9Mvm96Zw)
@@ -17,3 +19,4 @@ Placer eventuelt NVivo projektfilen i en mappe på skrivebordet, og åbn den her
 Når projektfilen er åben, kan du under "Files" se en mappe med interviews, som du skal kode i løbet af kurset. I "Files" er det også en dansk stopordsliste, som du også kommer til at bruge.
 
 Har spørgsmål til forberedelsen så skriv til Jens Jan på jjan@kb.dk eller Hazel på hcen@kb.dk
+.
