@@ -1,8 +1,9 @@
 # Om kurset
 Velkommen til vores NVivo kursus.
 
-NVivo er et digitalt analyseværktøj, der er god til at strukturere dine data, kode for mening og  at give indsigter på tværs af materialet. Det bliver brugt indenfor mange forsjellige forskermiljøer, især indenfor humaniora og socialvidenskaberne, hvor man arbejder med kvalitative data. Aarhus Universitet giver mulighed for at købe en billig licens til programmet, og Aarhus universitetbibliotek underviser i, og supporterer programmet.
+NVivo er en softwareapplikation udviklet til kvalitativ datamanagement og analyse. Den bruges primært til at organisere, analysere og finde mønstre i ikke-numeriske data, såsom tekst, lyd, video og billeder. NVivo giver dig værktøjer til at kode og kategorisere data, udføre tekst- og indholdsanalyse, samt visualisere og præsentere resultaterne af din analyse.
 
+NVivo muliggør dybdegående analyser af komplekse data, hvilket giver forskere og analytikere mulighed for at opdage mønstre, temaer og sammenhænge, der ellers kan være skjulte. NVivo understøtter også samarbejde, da flere brugere kan arbejde på det samme projekt samtidigt, og det giver mulighed for at integrere og analysere data på tværs af forskellige medier.
 
 ## Hvad du kommer til at lære på introkurset
 På vores 2-timers introkursus vil du lære de basale færdigheder, det kræver, før du kan komme igang med til eget projekt. Når du har været på kurset vil du kunne:
