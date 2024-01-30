@@ -17,6 +17,7 @@ På vores 2-timers introkursus vil du lære de basale færdigheder, det kræver,
 
 
 ## Vores materiale
+Vores kursusmateriale består af seks interview
 
 
 ## Forberedelse
