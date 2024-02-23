@@ -6,17 +6,14 @@
  Format: ![Alt Text](url)
 
 1 - Gå til https://lumivero.com/ og klik på ”Free Trial”.     
-![Billede 001.png](https://github.com/AUL-Arts-NVivo/NVivo-intro/blob/main/Images/billede001.png)
+![Billede 001.png](https://github.com/AUL-Arts-NVivo/NVivo-intro/blob/main/Images/billede001.png)  
+
 
  
-
  
 
- 
+2 - Vælg NVivo – Free, 14-day trial   
 
- 
-
-2 - Vælg NVivo – Free, 14-day trial 
 ![Billede 002.png](https://github.com/AUL-Arts-NVivo/NVivo-intro/blob/main/Images/billede002.png)
 
 
