@@ -5,7 +5,7 @@
 
  Format: ![Alt Text](url)
 
-1 - Gå til https://lumivero.com/ og klik på ”Free Trial”.   
+1 - Gå til https://lumivero.com/ og klik på ”Free Trial”.     
 ![Billede 001.png](https://github.com/AUL-Arts-NVivo/NVivo-intro/blob/main/Images/billede001.png)
 
  
