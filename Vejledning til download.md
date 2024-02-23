@@ -3,9 +3,11 @@
 
  
 
- 
+ Format: ![Alt Text](url)
 
-1 - Gå til https://lumivero.com/ og klik på ”Free Trial”. 
+1 - Gå til https://lumivero.com/ og klik på ”Free Trial”.   
+![Billede 001.png](/images/billede001.png)
+
 
  
 
