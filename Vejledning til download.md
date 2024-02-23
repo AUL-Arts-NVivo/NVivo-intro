@@ -17,6 +17,8 @@
  
 
 2 - Vælg NVivo – Free, 14-day trial 
+![Billede 002.png] (https://github.com/AUL-Arts-NVivo/NVivo-intro/blob/main/Images/billede002.png)
+
 
  
 
