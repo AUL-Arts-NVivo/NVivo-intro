@@ -30,7 +30,7 @@
 
 
 
-VIGTIGT! – brug din AU mail, hvis du senere vil købe en studenterlicens af AU-IT. Studiemailen er: studienummer + ”@post.au.dk” 
+**VIGTIGT!** – brug din AU mail, hvis du senere vil købe en studenterlicens af AU-IT. Studiemailen er: studienummer + ”@post.au.dk” 
 
  
 
