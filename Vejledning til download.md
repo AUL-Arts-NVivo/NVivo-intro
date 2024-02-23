@@ -6,7 +6,7 @@
  Format: ![Alt Text](url)
 
 1 - Gå til https://lumivero.com/ og klik på ”Free Trial”.   
-![Billede 001.png](/images/billede001.png)
+![Billede 001.png](Nvivo-intro/images/billede001.png)
 
 
  
