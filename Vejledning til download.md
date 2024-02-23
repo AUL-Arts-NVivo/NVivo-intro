@@ -25,7 +25,10 @@
 
  
 
-3 - Opret din NVivo konto.  
+3 - Opret din NVivo konto.      
+![Billede 003.png](https://github.com/AUL-Arts-NVivo/NVivo-intro/blob/main/Images/billede003.png)
+
+
 
 VIGTIGT! – brug din AU mail, hvis du senere vil købe en studenterlicens af AU-IT. Studiemailen er: studienummer + ”@post.au.dk” 
 
@@ -39,7 +42,9 @@ VIGTIGT! – brug din AU mail, hvis du senere vil købe en studenterlicens af AU
 
  
 
-4 - Vælg NVivo under dine produkter og klik på Launch 
+4 - Vælg NVivo under dine produkter og klik på Launch   
+![Billede 004.png](https://github.com/AUL-Arts-NVivo/NVivo-intro/blob/main/Images/billede004.png)
+
 
  
 
@@ -49,7 +54,9 @@ VIGTIGT! – brug din AU mail, hvis du senere vil købe en studenterlicens af AU
 
  
 
-5 - Klik på ”Download NVivo” til den platform, som du bruger. NVivo ved det =) 
+5 - Klik på ”Download NVivo” til den platform, som du bruger. NVivo ved det =)   
+![Billede 005.png](https://github.com/AUL-Arts-NVivo/NVivo-intro/blob/main/Images/billede005.png)
+
 
  
 
